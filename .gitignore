@@ -1,2 +1,5 @@
 *.sdf
 *.opensdf
+*.suo
+Debug/
+*.filters
